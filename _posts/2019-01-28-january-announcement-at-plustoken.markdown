@@ -2,6 +2,7 @@
 title: January Announcement at PlusToken
 layout: post
 date: 2019-01-28
+author_staff_member: jakob
 ---
 
 1. The recent data update of wallet and trading platform will affect the delayed payment of earnings. Don’t worry. It will not affect the users’ earnings. After the update, it will return to normal. As for the inconvenience that the update will bring, please understand.
