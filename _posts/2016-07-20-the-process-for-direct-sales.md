@@ -1,35 +1,27 @@
 ---
-date: 2016-07-20
-title: The process for direct sales
+date: 2019-01-21
+title: PlusToken January Announcement
 categories:
-  - sales
-author_staff_member: anna
+  - announcements
+author_staff_member:
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
+1. The recent data update of wallet and trading platform will affect the delayed payment of earnings. Don’t worry. It will not affect the users’ earnings. After the update, it will return to normal. As for the inconvenience that the update will bring, please understand.
 
-![Checkmate](https://source.unsplash.com/random/1500x1145)
+2. The recharge function of the PsEx trading platform will be opened recently. Currently, the trading platform has been launched. In order to provide the users a better experience, the final update still needs to be made. Therefore, the open recharge function is delayed. Through the unremitting efforts of the technical team, the function will be fully opened in about a week. Please maintain your attention.
 
-## Textbook definition
+3. As for the distribution of candy, so far 12 million PLUS have been distributed, and the distribution method of the remaining 8 million is: 1 million will be distributed to the users who open the safe net for the first time (the system will select the users at random). 7 million will be distributed to users who will apply to become VIPs, diamond users, and mine owners before August 1, 2019, which will be distributed several times a month. All of the 7 million PLUSs will be distributed before August 1, 2019.
 
-A textbook definition is: "The direct personal presentation, demonstration, and sale of products and services to consumers, usually in their homes or at their jobs."
+4. As for the application of the mine owner, the user who have 300 PLUS candies can apply to become a mine owner, which can be revoked freely after 12 months. The owner’s rights and interests.
 
-## How effective is direct selling?
+a: enjoy the permanent distribution mechanism of transaction fee on the trading platform;
 
-Industry representative, the World Federation of Direct Selling Associations (WFDSA), reports that its 59 regional member associations accounted for more than US$183 billion in retail sales in 2014, through the activities of more than 62 million independent sales representatives. The United States Direct Selling Association (DSA) reported that in 2000, 55% of adult Americans had at some time purchased goods or services from a direct selling representative and 20% reported that they were currently(6%) or had been in the past(14%) a direct selling representative.
+b: the mining mode will be opened in 2020, but the mining equipment is only open to all mine owners;
 
-![Office](https://source.unsplash.com/random/1500x1146)
+c: enjoy the “7 million PLUS candy activity” which will be delivered before August 1, 2019 .
 
-According to the WFDSA, consumers benefit from direct selling because of the convenience and service it provides, including personal demonstration and explanation of products, home delivery, and generous satisfaction guarantees. In contrast to franchising, the cost for an individual to start an independent direct selling business is typically very low with little or no required inventory or other cash commitments to begin.
+5. VIP and diamond users can get the mining equipment given by the platform and enter the mining mode in advance in January 2019. At this stage, the mining method is to adopt the contract mining method and intelligent cloud mining machine mechanism, you need to match the linked data with the app by manual operation so as to start mining, the PLUS obtained by the mining will directly be displayed in the mining earnings in the earnings list.
 
-Most direct selling associations around the world require their members to abide by a code of conduct towards a fair partnership both with customers and salesmen...
+6. The plusToken main network has now entered the test phase. When the main network is officially launched after the test phase, the mining mechanism will be changed. At that time, the intelligent cloud mining machine will not be able to continue mining. PIUS will adopt the M9 mining machine with a Hash computing power of 16.59 TH/s for mining, which is self-developed with the power supply of 1050 watts. At the same time, the platform will assist all users in dealing with PLUS asset main network mapping issues.
 
-Most national direct selling associations are represented in the World Federation of Direct Selling Associations (WFDSA).
-
-## How's it different to marketing?
-
-Direct selling is distinct from direct marketing because it is about individual sales agents reaching and dealing directly with clients. Direct marketing is about business organizations seeking a relationship with their customers without going through an agent/consultant or retail outlet.
-
-Direct selling consists of two main business models: single-level marketing, in which a direct seller makes money by buying products from a parent organization and selling them directly to customers, and multi-level marketing (also known as network marketing or person-to-person marketing), in which the direct seller makes money from both direct sales to customers and by sponsoring new direct sellers and earning a commission from their efforts.
-
-![Raspberries](https://source.unsplash.com/random/1500x1147)
+7. 30% of the platform’s quarterly profit is used for repurchase PLUS, 0x87263f0a64004586CC4BCDc93d76ae0ADFBCD345 is the platform’s repurchase address. This address is only transferred in and not transferred out. Until the total amount of market circulation remains at 100 million PLUS, the repurchase work will stop. After the main network is launched, the PLUS of this address will be mapped to the plusToken main network for public destruction.
